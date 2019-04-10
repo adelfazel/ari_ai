@@ -1,11 +1,10 @@
 # ari_ai
-This repo is created for the datascience challange on topix words
+This repo is created for the datascience challange on toxic words
 
 # basic archtecture 
 Basic idea of machine learning is simple:
 1-Train, 2-validate 3-test
 
-# pipeline, we should set t
 1- We need a function, that gets training data and returns a trained model. 
 The function, internally is connected to training set data, e.g. S3 bucket or if we can get free space from google etc.
 
